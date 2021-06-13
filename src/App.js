@@ -12,7 +12,15 @@ function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="App-footer text-center"> <small>Coded by Ramona Gherasim </small> </footer>
+      <footer className="App-footer text-center"> <small>This project was coded by Ramona Gherasim and is open-sourced on 
+        <a 
+        rel="noreferrer"
+        target="_blank"
+        href="https://github.com/RamonaGherasim/dictionary-project-react"> GitHub </a> and hosted on 
+        <a 
+        rel="noreferrer"
+        target="_blank"
+        href="https://laughing-goldwasser-f983cd.netlify.app" > Netlify. </a> </small> </footer>
       </div>
     </div>
   );
