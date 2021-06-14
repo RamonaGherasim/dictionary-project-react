@@ -37,7 +37,7 @@ export default function Dictionary (props){
             <div className="Dictionary">
                 <section>
                     <form onSubmit={handleSubmit}>
-                        <input type="seach" onChange={handleKeywordChange} />
+                        <input type="seach" onChange={handleKeywordChange} defaultValue={props.defaultKeyword} />
                     </form>
                 <div className="hint">
                     Search example: cat, yoga, wine...
