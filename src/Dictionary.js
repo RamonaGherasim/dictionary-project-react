@@ -40,7 +40,7 @@ export default function Dictionary (props){
                         <input type="seach" onChange={handleKeywordChange} defaultValue={props.defaultKeyword} />
                     </form>
                 <div className="hint">
-                    Search example: cat, yoga, wine...
+                   You can search for words like: sunset, forest, wine...or anything else 
                 </div>
                 </section>
                 <Results results={results} />

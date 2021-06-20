@@ -10,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <main>
-        <Dictionary defaultKeyword="braille" />
+        <Dictionary defaultKeyword="library" />
       </main>
       <footer className="App-footer text-center"> <small>This project was coded by Ramona Gherasim and is open-sourced on 
         <a 
