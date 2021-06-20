@@ -12,7 +12,7 @@ function App() {
       <main>
         <Dictionary defaultKeyword="library" />
       </main>
-      <footer className="App-footer text-center"> <small>This project was coded by Ramona Gherasim and is open-sourced on 
+      <footer className="App-footer text-center"> <small>This dictionary was coded by Ramona Gherasim and is open-sourced on 
         <a 
         rel="noreferrer"
         target="_blank"

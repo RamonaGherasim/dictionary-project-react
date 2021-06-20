@@ -1,11 +1,23 @@
 .App-logo {
   max-width: 70px;
-  display: block;
-  margin: 0 auto;
+  display: flex;
 }
 
 .App-footer {
   margin: 30px 0;
+  color: whitesmoke;
+  font-size: 16px;
+}
+
+.App-footer a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.App-footer a:hover {
+  text-decoration: underline;
+  color: rgb(204, 150, 122);
 }
 
 body {
