@@ -1,6 +1,25 @@
+body {
+  background-image: url(https://i.ibb.co/ypjJy5R/pexels-janko-ferlic-590493.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Yantramanav", sans-serif;
+}
+
 .App {
   max-width: 700px;
   margin: 0 auto;
+}
+
+.App .quote {
+  color: whitesmoke;
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 10px;
+  border: 2px solid rgb(204, 150, 122);
+  border-radius: 5px;
+  padding: 5px 0 0;
+  background: rgba(57, 57, 79, 0.6);
+  text-align: center;
 }
 
 .App-logo {
@@ -26,11 +45,4 @@
 .App-footer a:hover {
   text-decoration: underline;
   color: rgb(204, 150, 122);
-}
-
-body {
-  background-image: url(https://i.ibb.co/ypjJy5R/pexels-janko-ferlic-590493.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-family: "Yantramanav", sans-serif;
 }

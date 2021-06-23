@@ -7,7 +7,17 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
+       <div className="row">
+        <div className="col">
         <img src={logo} className="App-logo img-fluid" alt="logo" />
+        </div>
+        <div className="col">
+        <div className="quote">
+          <div>Raise your words, </div>
+          <div>not your voice. </div>
+        </div>
+        </div>
+        </div>
       </header>
       <main>
         <Dictionary defaultKeyword="book" />
