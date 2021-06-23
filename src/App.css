@@ -1,6 +1,9 @@
 .App-logo {
   max-width: 70px;
-  display: flex;
+  margin-top: 8px;
+  padding: 2px;
+  border: 2px solid rgb(204, 150, 122);
+  border-radius: 5px;
 }
 
 .App-footer {
