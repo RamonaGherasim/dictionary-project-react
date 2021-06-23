@@ -1,3 +1,8 @@
+.App {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
 .App-logo {
   max-width: 70px;
   margin-top: 8px;
