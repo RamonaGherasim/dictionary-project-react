@@ -10,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <main>
-        <Dictionary defaultKeyword="library" />
+        <Dictionary defaultKeyword="book" />
       </main>
       <footer className="App-footer text-center"> <small>This dictionary was coded by Ramona Gherasim and is open-sourced on 
         <a 
